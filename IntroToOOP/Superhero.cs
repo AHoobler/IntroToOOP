@@ -19,5 +19,14 @@ namespace IntroToOOP
         method should give your Superhero a power boost. (could be EatsSpinach() or AbsorbsYellowSun(), etc.)
         */
 
+        // four properties 
+        private string hasCape;
+        private int speed;
+        private string hasSuperBoots;
+        private string strengthLevel;
+
+        // four properties
+
+
     }
 }
